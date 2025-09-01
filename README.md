@@ -15,14 +15,28 @@ Semantic HTML is more than just "clean markup" — it provides structure, access
 
 Semantic HTML  means using HTML elements to structure your content based on each element's meaning, not its appearance. Instead of `<div id="header">`, you use `<header>`. Instead of a `<span>` for navigation, you use `<nav>`. These elements tell both browsers and developers **what the content represents**, not just how it looks.  
 
-**Non-semantic example:**  
-```html
+Before and After Example
+
+❌ Non-semantic HTML (bad):
+
 <div id="header">
+  <div class="title">My Blog</div>
   <div class="nav">
     <a href="/">Home</a>
-    <a href="/blog">Blog</a>
+    <a href="/about">About</a>
   </div>
 </div>
+
+
+✅ Semantic HTML (good):
+
+<header>
+  <h1>My Blog</h1>
+  <nav>
+    <a href="/">Home</a>
+    <a href="/about">About</a>
+  </nav>
+</header>
 ✅ Benefits of Using Semantic HTML
 
 Accessibility: Screen readers can navigate better.
