@@ -1,10 +1,10 @@
-Title:
-How to Implement Semantic HTML for Accessibility, SEO, Maintainability and its Benefits.
+## Title:
+## How to Implement Semantic HTML for Accessibility, SEO, Maintainability and its Benefits.
 
-Meta Description (SEO):
+## Meta Description (SEO):
 Learn how semantic HTML improves accessibility, SEO, and code maintainability. Step-by-step examples, testing methods, and best practices included.
 
-Statement of Objectives (SOE)
+## Statement of Objectives (SOE)
 
 The purpose of this post is to help web developers implement semantic HTML effectively. By the end, you should be able to:
 
@@ -22,7 +22,8 @@ The modern web is full of <div> soup — generic containers with no inherent mea
 
 Semantic HTML solves this by using meaningful tags that describe content. Instead of <div class=\"header\">, you use <header>. Instead of <div class=\"nav\">, you use <nav>.
 
-Therefore Semantic HTML will enhence;
+## Therefore Semantic HTML will enhence;
+
 Accessibility: Assistive technologies navigate your site more effectively.
 
 SEO: Search engines understand your content hierarchy better.
@@ -49,6 +50,8 @@ Here are the most important semantic tags and their purposes:
 
 Notice how the second example is cleaner, easier to understand, and conveys meaning to both machines and humans.
 
+## SEMANTIC HTML BENEFITS
+
 Accessibility Benefits
 
 Semantic HTML improves accessibility automatically:
@@ -57,9 +60,7 @@ SEO Benefits
 
 Semantic HTML also makes search engines love your content:
 
-
-
-Measuring Improvements
+## MEASURING IMPROVEMENTS
 
 Here’s how to prove semantic HTML works:
 
@@ -79,7 +80,7 @@ Code Review:
 
 Compare before/after — are there fewer <div>s and more meaningful tags?
 
-Best Practices and Tips
+## BEST PRACTICES AND TIPS
 
 Start with a logical document outline before coding.
 
