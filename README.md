@@ -47,61 +47,17 @@ Here are the most important semantic tags and their purposes:
 
 <footer>: Closing content like copyright or related links.
 
-Before and After Example
-
-❌ Non-semantic HTML (bad):
-
-<div id="header">
-  <div class="title">My Blog</div>
-  <div class="nav">
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-  </div>
-</div>
-
-
-✅ Semantic HTML (good):
-
-<header>
-  <h1>My Blog</h1>
-  <nav>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-  </nav>
-</header>
-
-
 Notice how the second example is cleaner, easier to understand, and conveys meaning to both machines and humans.
 
 Accessibility Benefits
 
 Semantic HTML improves accessibility automatically:
 
-Landmarks: <header>, <nav>, <main>, and <footer> help screen reader users jump through sections quickly.
-
-Headings: A proper <h1> → <h2> → <h3> hierarchy creates a logical outline.
-
-Forms: Labels tied to inputs ensure everyone knows what to enter.
-
-Accessible Example:
-
-<form>
-  <label for="email">Email Address:</label>
-  <input type="email" id="email" name="email" required />
-  <button type="submit">Subscribe</button>
-</form>
-
 SEO Benefits
 
 Semantic HTML also makes search engines love your content:
 
-Headings (<h1>, <h2>) signal important keywords.
 
-<article> and <section> highlight structured content.
-
-Proper link markup (<a>) improves internal linking and crawlability.
-
-Result: Your pages can appear in rich snippets and rank higher for relevant keywords.
 
 Measuring Improvements
 
