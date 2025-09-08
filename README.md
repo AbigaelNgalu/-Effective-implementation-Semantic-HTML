@@ -85,9 +85,9 @@ Start with a logical document outline before coding.
 
 Use ARIA roles only when necessary — semantic tags often provide them natively.
 
-Don’t overuse <section> — only use when content has a heading.
+Don’t overuse < section > — only use when content has a heading.
 
-Use CSS Grid or Flexbox for layout, not extra <div> wrappers.
+Use CSS Grid or Flexbox for layout, not extra < div > wrappers.
 
 Conclusion
 
