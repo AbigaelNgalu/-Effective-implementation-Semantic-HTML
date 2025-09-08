@@ -1,5 +1,4 @@
-## Title:
-## How to Implement Semantic HTML for Accessibility, SEO, Maintainability and its Benefits.
+## Title: How to Implement Semantic HTML for Accessibility, SEO, Maintainability and its Benefits.
 
 ## Meta Description (SEO):
 Learn how semantic HTML improves accessibility, SEO, and code maintainability. Step-by-step examples, testing methods, and best practices included.
