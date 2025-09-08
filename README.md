@@ -20,7 +20,7 @@ Semantic HTML  means using HTML elements to structure your content based on each
 
 The modern web is full of <div> soup — generic containers with no inherent meaning. While they get the job done, they make websites harder to maintain, less accessible, and weaker in SEO.
 
-Semantic HTML solves this by using meaningful tags that describe content. Instead of <div class=\"header\">, you use <header>. Instead of <div class=\"nav\">, you use <nav>.
+Semantic HTML solves this by using meaningful tags that describe content. Instead of < div class=\"header\" >, you use <header>. Instead of <div class=\"nav\">, you use <nav>.
 
 ## Therefore Semantic HTML will enhence;
 
@@ -78,7 +78,7 @@ Track keyword impressions and click-through rate (CTR).
 
 Code Review:
 
-Compare before/after — are there fewer <div>s and more meaningful tags?
+Compare before/after — are there fewer < div >s and more meaningful tags?
 
 ## BEST PRACTICES AND TIPS
 
@@ -92,4 +92,4 @@ Use CSS Grid or Flexbox for layout, not extra <div> wrappers.
 
 Conclusion
 
-Semantic HTML is not just “nice to have” — it’s the backbone of accessible, SEO-friendly, and maintainable web development. By making small changes, like replacing <div>s with <header>, <main>, and <footer>, you create a site that works better for everyone.
+Semantic HTML is not just “nice to have” — it’s the backbone of accessible, SEO-friendly, and maintainable web development. By making small changes, like replacing < div >s with < header >, < main >, and < footer >, you create a site that works better for everyone.
